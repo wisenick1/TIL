@@ -27,4 +27,21 @@
 3. 오류 메시지를 한 곳에서 다뤄보자
 - properties 파일을 활용하여 값에 오류 메시지를 넣는다
 - 그 후 FieldError와 ObjectError 생성자 파라미터를 활용한다.
-4. reject를 사용해 FieldError와 ObjectError 없애기 
+- defaultMessage도 삭제 가능!
+4. rejectValue(), reject를 사용해 FieldError와 ObjectError 없애기
+- bindingResult가 어떤 객체를 대상으로 검증하는지 아는데 굳이 줘야하나!
+- 관련 파라미터 제거 가능!
+- 어떻게 errorCode를 이렇게 간단히 줘도 될까?
+    - MessageCodesResolver!
+5. MessageCodesResolver
+- errorCode가 알아서 생성해서 보관한다
+- rejectValue(), reject가 이 MessageCodesResolver를 가지고 있다
+- properties에 범용적인 메시지를 먼저 넣고 필요에 따라 구체적인 메시지를 작성하는 것이 좋다.
+- 이렇게 하여 스프링에서 자동생성하는 typeMisMatch에 대해서도 오류 메시지 지정 가능
+6.  Validator 분리
+- 검증 로직을 분리
+- 어떤 검증기를 실행할지 구분하고, validate 실행
+
+:rocket: 정리
+--
+ 직접 생성 -> BindingResult -> Validator 분리 플로우를 익히자
