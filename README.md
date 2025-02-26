@@ -14,3 +14,4 @@ Spring
     - 
     - 
     - [검증 1 - Validation](https://github.com/wisenick1/TIL/blob/main/spring/%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%202%ED%8E%B8%20-%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%ED%99%9C%EC%9A%A9%20%EA%B8%B0%EC%88%A0/%EA%B2%80%EC%A6%9D1%20-%20Validation.md)
+    - [검증2 - Bean Validation](https://github.com/wisenick1/TIL/blob/main/spring/%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%202%ED%8E%B8%20-%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%ED%99%9C%EC%9A%A9%20%EA%B8%B0%EC%88%A0/%EA%B2%80%EC%A6%9D2%20-%20Bean%20Balidation.md)
