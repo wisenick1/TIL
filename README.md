@@ -14,7 +14,7 @@ Spring
 
 - 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술
     - [타임리프 - 기본기능](https://github.com/wisenick1/TIL/blob/main/spring/%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%202%ED%8E%B8%20-%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%ED%99%9C%EC%9A%A9%20%EA%B8%B0%EC%88%A0/%ED%83%80%EC%9E%84%EB%A6%AC%ED%94%84%20-%20%EA%B8%B0%EB%B3%B8%EA%B8%B0%EB%8A%A5.md)
-    - [타임리프 - 스프링 통합과 폼]
+    - [타임리프 - 스프링 통합과 폼](https://github.com/wisenick1/TIL/blob/main/spring/%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%202%ED%8E%B8%20-%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%ED%99%9C%EC%9A%A9%20%EA%B8%B0%EC%88%A0/%ED%83%80%EC%9E%84%EB%A6%AC%ED%94%84%20-%20%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%86%B5%ED%95%A9%EA%B3%BC%20%ED%8F%BC.md)
     - [메시지, 국제화](https://github.com/wisenick1/TIL/blob/main/spring/%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%202%ED%8E%B8%20-%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%ED%99%9C%EC%9A%A9%20%EA%B8%B0%EC%88%A0/%EB%A9%94%EC%8B%9C%EC%A7%80%2C%20%EA%B5%AD%EC%A0%9C%ED%99%94.md)
     - [검증 1 - Validation](https://github.com/wisenick1/TIL/blob/main/spring/%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%202%ED%8E%B8%20-%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%ED%99%9C%EC%9A%A9%20%EA%B8%B0%EC%88%A0/%EA%B2%80%EC%A6%9D1%20-%20Validation.md)
     - [검증2 - Bean Validation](https://github.com/wisenick1/TIL/blob/main/spring/%EC%8A%A4%ED%94%84%EB%A7%81%20MVC%202%ED%8E%B8%20-%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%ED%99%9C%EC%9A%A9%20%EA%B8%B0%EC%88%A0/%EA%B2%80%EC%A6%9D2%20-%20Bean%20Balidation.md)
