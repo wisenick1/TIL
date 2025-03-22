@@ -30,3 +30,4 @@ Spring
 
 - git
     - [intellij git 처음 연동작업](https://github.com/wisenick1/TIL/blob/main/git/intellij%20git%20%EC%B2%98%EC%9D%8C%20%EC%97%B0%EB%8F%99%EC%9E%91%EC%97%85.md)
+    - [gitignore(application.properties와 gradle-wrapper.jar)](https://github.com/wisenick1/TIL/blob/main/git/gitignore.md)
