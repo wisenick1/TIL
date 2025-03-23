@@ -8,6 +8,7 @@ Spring
 - 스프링 핵심 원리
     - [스프링과 객체지향](https://github.com/wisenick1/TIL/blob/main/spring/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC/%EC%8A%A4%ED%94%84%EB%A7%81%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)
 - 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술
+    - [JDBC 이해](https://github.com/wisenick1/TIL/blob/main/spring/%EC%8A%A4%ED%94%84%EB%A7%81%20DB%201%ED%8E%B8%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%91%EA%B7%BC%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC/JDBC%20%EC%9D%B4%ED%95%B4.md)
     
 
 
