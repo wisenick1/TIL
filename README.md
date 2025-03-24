@@ -8,7 +8,7 @@ Spring
 - 스프링 핵심 원리
     - [스프링과 객체지향](https://github.com/wisenick1/TIL/blob/main/spring/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC/%EC%8A%A4%ED%94%84%EB%A7%81%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)
 - 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술
-    - [JDBC 이해](https://github.com/wisenick1/TIL/blob/main/spring/%EC%8A%A4%ED%94%84%EB%A7%81%20DB%201%ED%8E%B8%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%91%EA%B7%BC%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC/JDBC%20%EC%9D%B4%ED%95%B4.md)
+    
     
 
 
@@ -28,10 +28,21 @@ Spring
 
 
 - 스프링 DB 1편 - 데이터 접근 핵심 원리
+    - [JDBC 이해](https://github.com/wisenick1/TIL/blob/main/spring/%EC%8A%A4%ED%94%84%EB%A7%81%20DB%201%ED%8E%B8%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%91%EA%B7%BC%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC/JDBC%20%EC%9D%B4%ED%95%B4.md)   
+    - [커넥션풀과 데이터소스 이해](https://github.com/wisenick1/TIL/blob/main/spring/%EC%8A%A4%ED%94%84%EB%A7%81%20DB%201%ED%8E%B8%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%91%EA%B7%BC%20%ED%95%B5%EC%8B%AC%20%EC%9B%90%EB%A6%AC/%EC%BB%A4%EB%84%A5%EC%85%98%ED%92%80%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%86%8C%EC%8A%A4%20%EC%9D%B4%ED%95%B4.md)
 
+
+github
+--
 - git
     - [intellij git 처음 연동작업](https://github.com/wisenick1/TIL/blob/main/git/intellij%20git%20%EC%B2%98%EC%9D%8C%20%EC%97%B0%EB%8F%99%EC%9E%91%EC%97%85.md)
     - [gitignore(application.properties와 gradle-wrapper.jar)](https://github.com/wisenick1/TIL/blob/main/git/gitignore.md)
 
-- condingTest
+
+
+    
+
+condingTest
+--
+- Do it! 알고리즘 코딩테스트 with JAVA
     - [배열과 리스트](https://github.com/wisenick1/TIL/blob/main/condingTest/%EB%B0%B0%EC%97%B4%EA%B3%BC%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
