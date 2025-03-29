@@ -45,7 +45,7 @@ github
 
 condingTest
 --
-- Do it! 알고리즘 코딩테스트 with JAVA
+- 자료구조
     - [배열과 리스트](https://github.com/wisenick1/TIL/blob/main/condingTest/%EB%B0%B0%EC%97%B4%EA%B3%BC%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
     - [구간 합(+BufferedReader)](https://github.com/wisenick1/TIL/blob/main/condingTest/%EA%B5%AC%EA%B0%84%20%ED%95%A9.md)
     - [투포인터](https://github.com/wisenick1/baekjoon/blob/main/%EB%B0%B1%EC%A4%80/Silver/2018.%E2%80%85%EC%88%98%EB%93%A4%EC%9D%98%E2%80%85%ED%95%A9%E2%80%855/%EC%88%98%EB%93%A4%EC%9D%98%E2%80%85%ED%95%A9%E2%80%855.java)
