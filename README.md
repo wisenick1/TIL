@@ -61,7 +61,7 @@ Spring
     - [API 개발 기본(+Entity vs DTO)](https://github.com/wisenick1/TIL/blob/main/spring/실전!%20스프링%20부트와%20JPA%20활용2%20-%20API%20개발과%20성능%20최적화/API%20개발%20기본.md)
 
 - 실전! 스프링 데이터 JPA
-    - [공통 인터페이스 기능]()
+    - [공통 인터페이스 기능](https://github.com/wisenick1/TIL/blob/main/spring/실전!%20스프링%20JPA/공통%20인터페이스%20기능.md)
 
 github
 --
