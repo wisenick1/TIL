@@ -64,6 +64,7 @@ Spring
     - [공통 인터페이스 기능](https://github.com/wisenick1/TIL/blob/main/spring/실전!%20스프링%20JPA/공통%20인터페이스%20기능.md)
     - [쿼리 메소드 기능](https://github.com/wisenick1/TIL/blob/main/spring/실전!%20스프링%20JPA/쿼리%20메소드%20기능.md)
     - [확장 기능](https://github.com/wisenick1/TIL/blob/main/spring/실전!%20스프링%20JPA/확장%20기능.md)
+    - [스프링 데이터 JPA 분석](https://github.com/wisenick1/TIL/blob/main/spring/실전!%20스프링%20JPA/스프링%20데이터%20JPA%20분석.md)
 
 - 실전! Querydsl
     - [기본 문법](https://github.com/wisenick1/TIL/blob/main/spring/실전!%20Querydsl/기본%20문법.md)
