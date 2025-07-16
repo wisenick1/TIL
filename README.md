@@ -65,7 +65,7 @@ Spring
     - [쿼리 메소드 기능](https://github.com/wisenick1/TIL/blob/main/spring/실전!%20스프링%20JPA/쿼리%20메소드%20기능.md)
 
 - 실전! Querydsl
-    - [기본 문법]()
+    - [기본 문법](https://github.com/wisenick1/TIL/blob/main/spring/실전!%20Querydsl/기본%20문법.md)
 
 github
 --
