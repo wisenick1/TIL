@@ -68,6 +68,7 @@ Spring
 
 - 실전! Querydsl
     - [기본 문법](https://github.com/wisenick1/TIL/blob/main/spring/실전!%20Querydsl/기본%20문법.md)
+    - [중급 문법](https://github.com/wisenick1/TIL/blob/main/spring/실전!%20Querydsl/중급%20문법.md)
 
 github
 --
