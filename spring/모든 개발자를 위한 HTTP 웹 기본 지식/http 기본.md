@@ -26,3 +26,29 @@ HTTP는 기본적으로 연결을 유지하지 않는 모델로 서버 자원을
 
 그러나 시간 추가, 자원 다운로드의 한계가 있다.
 
+초기 http는 자원 요청 응답에 시간이 꽤 소요됐지만, http지속 연결을 통해 자원 요청 응답이 한 연결 내에 이루어지도록 하여 개선시켰다.
+
+HTTP 메시지
+--
+HTTP 메시지 구조
+- start-line 시작 라인
+- header 헤더
+- empty line 공백 라인 (CRLF)
+- message body
+
+요청 메시지
+- start-line = request-line
+- http 메서드 + 요청 대상 + HTTP version
+
+- header : host
+
+- (message body)
+
+응답 메시지
+- start-line = status-line
+- HTTP version + 상태 코드 + 이유
+
+- header : 전송에 필요한 부가 정보
+
+- message body : 전송 데이터
+
