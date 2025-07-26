@@ -12,6 +12,8 @@ Spring
     - [인터넷 네트워크](https://github.com/wisenick1/TIL/blob/main/spring/모든%20개발자를%20위한%20HTTP%20웹%20기본%20지식/인터넷%20네트워크.md)
     - [URI와 웹 브라우저 요청 흐름](https://github.com/wisenick1/TIL/blob/main/spring/모든%20개발자를%20위한%20HTTP%20웹%20기본%20지식/URI와%20웹%20브라우저%20요청%20흐름.md)
     - [http 기본](https://github.com/wisenick1/TIL/blob/main/spring/모든%20개발자를%20위한%20HTTP%20웹%20기본%20지식/http%20기본.md)
+    - [HTTP 메서드](https://github.com/wisenick1/TIL/blob/main/spring/모든%20개발자를%20위한%20HTTP%20웹%20기본%20지식/HTTP%20메서드.md)
+    
 
 - 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술
     
