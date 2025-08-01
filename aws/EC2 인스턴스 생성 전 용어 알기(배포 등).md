@@ -18,3 +18,5 @@ EC2(Elastic Compute Cloud)
 - 인프라를 지리적으로 나누어 배포한 각각의 데이터센터
 - 내가 만든 서비스를 쓸 사람들을 기준으로 리전 선택
 - 리전 달라지지 않게 주의
+
+> 출처 : JSCODE 박재성의 [비전공자도 이해할 수 있는 AWS 입문/실전](https://www.inflearn.com/course/비전공자-이해할수있는-aws-입문실전/dashboard)
