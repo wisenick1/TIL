@@ -101,6 +101,7 @@ codingTest
 
 aws
 --
+- 배포
     - [EC2 인스턴스 생성 전 용어 알기(배포 등)](https://github.com/wisenick1/TIL/blob/main/aws/EC2%20인스턴스%20생성%20전%20용어%20알기(배포%20등).md)
     - [EC2 인스턴스 생성하기](https://github.com/wisenick1/TIL/blob/main/aws/EC2%20인스턴스%20생성하기.md)
     - [EC2에 배포하기](https://github.com/wisenick1/TIL/blob/main/aws/EC2에%20배포하기(Spring%20Boot).md)
