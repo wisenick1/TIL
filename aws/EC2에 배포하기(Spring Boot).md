@@ -26,7 +26,9 @@ spring boot의 경우 application.yml 등의 설정 파일은 github에 올라�
 서버 실행
 --
 $ ./gradlew clean build #
+
 $ cd ~/프로젝트명/build/libs
+
 $ sudo java -jar 프로젝트명-0.0.1-SNAPSHOT.jar
 
 확인
