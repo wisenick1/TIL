@@ -106,3 +106,4 @@ aws
     - [EC2 인스턴스 생성하기](https://github.com/wisenick1/TIL/blob/main/aws/EC2%20인스턴스%20생성하기.md)
     - [EC2에 배포하기](https://github.com/wisenick1/TIL/blob/main/aws/EC2에%20배포하기(Spring%20Boot).md)
     - [도메인 설정하기](https://github.com/wisenick1/TIL/blob/main/aws/도메인%20설정하기.md)
+    - [ELB로 HTTPS 적용시키기](https://github.com/wisenick1/TIL/blob/main/aws/ELB로%20HTTPS%20적용시키기.md)
