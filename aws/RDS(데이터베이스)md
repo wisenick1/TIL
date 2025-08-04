@@ -50,5 +50,9 @@ application.yml 내에
 > ```
 이런식으로 설정하고 RDS와 연결이 잘 되는지 확인해 보도록 하자
 
+종료
+--
+최종 스냅샷 생성, 자동 백업 보존 체크 해제
+
 
 > 출처 : JSCODE 박재성의 [비전공자도 이해할 수 있는 AWS 입문/실전](https://www.inflearn.com/course/비전공자-이해할수있는-aws-입문실전/dashboard)
