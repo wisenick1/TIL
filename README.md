@@ -109,3 +109,4 @@ aws
     - [ELB로 HTTPS 적용시키기](https://github.com/wisenick1/TIL/blob/main/aws/ELB로%20HTTPS%20적용시키기.md)
     - [RDS(데이터베이스)](https://github.com/wisenick1/TIL/blob/main/aws/RDS(데이터베이스)md)
     - [S3 - 파일 및 이미지 업로드](https://github.com/wisenick1/TIL/blob/main/aws/S3%20-%20파일%20및%20이미지%20업로드.md)
+    - [S3 + CloudFront 정적 웹 사이트 호스팅](https://github.com/wisenick1/TIL/blob/main/aws/S3%20%2B%20CloudFront%20정적%20웹%20사이트%20호스팅.md)
