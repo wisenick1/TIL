@@ -114,4 +114,5 @@ codingTest
 CI/CD
 --
 - Github Actions
-    - [CI/CD 기본개념](https://github.com/wisenick1/TIL/tree/main/CI_CD)
+    - [CI/CD 기본개념](https://github.com/wisenick1/TIL/blob/main/CI_CD/CI_CD%20기본개념.md)
+    - [Github Actions 개념 정리](https://github.com/wisenick1/TIL/blob/main/CI_CD/Github%20Actions%20개념%20정리.md)
