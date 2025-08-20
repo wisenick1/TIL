@@ -99,9 +99,9 @@ codingTest
     - [스택과 큐(+Priority Queue)](https://github.com/wisenick1/TIL/blob/main/condingTest/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%8A%A4%ED%83%9D%EA%B3%BC%20%ED%81%90.md)
 
 
-aws
+배포
 --
-- 배포
+- EC2 배포
     - [EC2 인스턴스 생성 전 용어 알기(배포 등)](https://github.com/wisenick1/TIL/blob/main/aws/EC2%20인스턴스%20생성%20전%20용어%20알기(배포%20등).md)
     - [EC2 인스턴스 생성하기](https://github.com/wisenick1/TIL/blob/main/aws/EC2%20인스턴스%20생성하기.md)
     - [EC2에 배포하기](https://github.com/wisenick1/TIL/blob/main/aws/EC2에%20배포하기(Spring%20Boot).md)
@@ -110,3 +110,8 @@ aws
     - [RDS(데이터베이스)](https://github.com/wisenick1/TIL/blob/main/aws/RDS(데이터베이스)md)
     - [S3 - 파일 및 이미지 업로드](https://github.com/wisenick1/TIL/blob/main/aws/S3%20-%20파일%20및%20이미지%20업로드.md)
     - [S3 + CloudFront 정적 웹 사이트 호스팅](https://github.com/wisenick1/TIL/blob/main/aws/S3%20%2B%20CloudFront%20정적%20웹%20사이트%20호스팅.md)
+
+CI/CD
+--
+- Github Actions
+    - []()
