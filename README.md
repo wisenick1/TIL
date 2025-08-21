@@ -116,3 +116,4 @@ CI/CD
 - Github Actions
     - [CI/CD 기본개념](https://github.com/wisenick1/TIL/blob/main/CI_CD/CI_CD%20기본개념.md)
     - [Github Actions 개념 정리](https://github.com/wisenick1/TIL/blob/main/CI_CD/Github%20Actions%20개념%20정리.md)
+    - [개인 프로젝트용 CI_CD](https://github.com/wisenick1/TIL/blob/main/CI_CD/개인%20프로젝트용%20CI_CD.md)
