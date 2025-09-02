@@ -1,4 +1,4 @@
-AccessToken과 RefreshToken
+AccessToken과 RefreshToken 기본
 ==
 
 AccessToken
