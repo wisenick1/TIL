@@ -101,6 +101,8 @@ codingTest
     - [구간 합(+BufferedReader)](https://github.com/wisenick1/TIL/blob/main/condingTest/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EA%B5%AC%EA%B0%84%20%ED%95%A9.md)
     - [투포인터](https://github.com/wisenick1/TIL/blob/main/condingTest/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0.md)
     - [스택과 큐(+Priority Queue)](https://github.com/wisenick1/TIL/blob/main/condingTest/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%8A%A4%ED%83%9D%EA%B3%BC%20%ED%81%90.md)
+- 실수노트
+    - [배열 index 검증(백준 3273번)](https://github.com/wisenick1/TIL/tree/main/condingTest/실수노트)
 
 
 배포
