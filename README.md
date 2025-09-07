@@ -104,7 +104,7 @@ codingTest
 
 - 실수노트
     - [배열 index 검증(백준 3273번)](https://github.com/wisenick1/TIL/tree/main/condingTest/실수노트)
-    - [반복문 continue로 끊어주기(백준 11328번)](https://github.com/wisenick1/TIL)
+    - [반복문 continue로 끊어주기(백준 11328번)](hhttps://github.com/wisenick1/TIL/blob/main/condingTest/실수노트/반복문%20continue로%20끊어주기(백준%2011328번).md)
 
 
 배포
