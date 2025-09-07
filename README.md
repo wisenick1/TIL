@@ -103,7 +103,7 @@ codingTest
     - [스택과 큐(+Priority Queue)](https://github.com/wisenick1/TIL/blob/main/condingTest/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%8A%A4%ED%83%9D%EA%B3%BC%20%ED%81%90.md)
 
 - 실수노트
-    - [배열 index 검증(백준 3273번)](https://github.com/wisenick1/TIL/tree/main/condingTest/실수노트)
+    - [배열 index 검증(백준 3273번)](https://github.com/wisenick1/TIL/blob/main/condingTest/실수노트/배열%20index%20검증(백준%203273번).md)
     - [반복문 continue로 끊어주기(백준 11328번)](hhttps://github.com/wisenick1/TIL/blob/main/condingTest/실수노트/반복문%20continue로%20끊어주기(백준%2011328번).md)
 
 
