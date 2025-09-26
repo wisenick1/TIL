@@ -61,10 +61,10 @@ Spring
     - [웹 계층 개발(+변경 감지와 병합(merge))](https://github.com/wisenick1/TIL/blob/main/spring/실전!%20스프링%20부트와%20JPA%20활용1%20-%20웹%20애플리케이션%20개발/웹%20계층%20개발.md)
 
 - 자바 ORM 표준 JPA 프로그래밍 - 기본편
-    -[다양한 연관관계 매핑](https://github.com/wisenick1/TIL/blob/main/spring/%EC%9E%90%EB%B0%94%20ORM%20%ED%91%9C%EC%A4%80%20JPA%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/%EB%8B%A4%EC%96%91%ED%95%9C%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%EB%A7%A4%ED%95%91.md)
-    -[고급 매핑](https://github.com/wisenick1/TIL/blob/main/spring/%EC%9E%90%EB%B0%94%20ORM%20%ED%91%9C%EC%A4%80%20JPA%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/%EA%B3%A0%EA%B8%89%20%EB%A7%A4%ED%95%91.md)
-    -[프록시와 연관관계 관리](https://github.com/wisenick1/TIL/blob/main/spring/%EC%9E%90%EB%B0%94%20ORM%20%ED%91%9C%EC%A4%80%20JPA%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/%ED%94%84%EB%A1%9D%EC%8B%9C%EC%99%80%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%EA%B4%80%EB%A6%AC.md)
-    -[값 타입](https://github.com/wisenick1/TIL/blob/main/spring/%EC%9E%90%EB%B0%94%20ORM%20%ED%91%9C%EC%A4%80%20JPA%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/%EA%B0%92%20%ED%83%80%EC%9E%85.md)
+    - [다양한 연관관계 매핑](https://github.com/wisenick1/TIL/blob/main/spring/%EC%9E%90%EB%B0%94%20ORM%20%ED%91%9C%EC%A4%80%20JPA%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/%EB%8B%A4%EC%96%91%ED%95%9C%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%EB%A7%A4%ED%95%91.md)
+    - [고급 매핑](https://github.com/wisenick1/TIL/blob/main/spring/%EC%9E%90%EB%B0%94%20ORM%20%ED%91%9C%EC%A4%80%20JPA%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/%EA%B3%A0%EA%B8%89%20%EB%A7%A4%ED%95%91.md)
+    - [프록시와 연관관계 관리](https://github.com/wisenick1/TIL/blob/main/spring/%EC%9E%90%EB%B0%94%20ORM%20%ED%91%9C%EC%A4%80%20JPA%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/%ED%94%84%EB%A1%9D%EC%8B%9C%EC%99%80%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%EA%B4%80%EB%A6%AC.md)
+    - [값 타입](https://github.com/wisenick1/TIL/blob/main/spring/%EC%9E%90%EB%B0%94%20ORM%20%ED%91%9C%EC%A4%80%20JPA%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/%EA%B0%92%20%ED%83%80%EC%9E%85.md)
 - 실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화
     - [API 개발 기본(+Entity vs DTO)](https://github.com/wisenick1/TIL/blob/main/spring/실전!%20스프링%20부트와%20JPA%20활용2%20-%20API%20개발과%20성능%20최적화/API%20개발%20기본.md)
 
