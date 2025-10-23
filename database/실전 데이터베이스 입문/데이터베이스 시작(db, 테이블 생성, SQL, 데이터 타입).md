@@ -1,5 +1,6 @@
 데이터베이스 시작(db, 테이블 생성, SQL)
 ==
+> 출처 : 김영한의 [실전 데이터베이스 입문 - 모든 IT인을 위한 SQL 첫걸음(SQL부터 차근차근)](https://www.inflearn.com/course/김영한-실전-데이터베이스-입문/dashboard)
 
 MYSQL 간단 사용법 알기
 -- 
