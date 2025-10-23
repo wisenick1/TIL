@@ -136,3 +136,8 @@ Docker
     - [dockerfile(FROM, COPY, ENTRYPOINT)](https://github.com/wisenick1/TIL/blob/main/docker/dockerfile이란(FROM%2C%20COPY%2C%20ENTRYPOINT).md)
     - [docker로 스프링 부트 실행 추가](https://github.com/wisenick1/TIL/blob/main/docker/docker로%20스프링%20부트%20실행.md)
     - [dockerfile(RUN, WORKDIR, EXPOSE)](https://github.com/wisenick1/TIL/blob/main/docker/dockerfile(RUN%2C%20WORKDIR%2C%20EXPOSE).md)
+
+Database
+--
+- 데이터베이스 입문
+    - [데이터베이스 시작(db, 테이블 생성, SQL)](https://github.com/wisenick1/TIL/blob/main/database/실전%20데이터베이스%20입문/데이터베이스%20시작(db%2C%20테이블%20생성%2C%20SQL%2C%20데이터%20타입).md)
