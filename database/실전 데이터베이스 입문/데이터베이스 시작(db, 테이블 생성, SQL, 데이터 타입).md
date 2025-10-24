@@ -7,6 +7,10 @@ MYSQL 간단 사용법 알기
 데이터베이스 생성
 - CREATE DATABASE 데이터베이스 이름;
 
+:rocket: **데이터베이스 이름은 프로젝트 이름이나 서비스 특징으로, 소문자와 언더스코어 조합으로!!**
+
+eg) my_shop
+
 작업할 데이터베이스 선택
 - USE 데이터베이스 이름;
 - workbench 다시 시작 시에도 써주어야한다.
@@ -32,6 +36,8 @@ MYSQL 간단 사용법 알기
 데이터베이스, 테이블 영구 삭제
 - DROP TABLE 테이블 명;
 - DROP DATABASE 데이터베이스 명;
+
+:rocket: **실무에서 DROP DATABASE 아주아주 조심하기**
 
 기본 CRUD는 익숙하니 패스
 
