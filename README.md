@@ -143,3 +143,4 @@ Database
     - [데이터베이스 시작(db, 테이블 생성, SQL)](https://github.com/wisenick1/TIL/blob/main/database/실전%20데이터베이스%20입문/데이터베이스%20시작(db%2C%20테이블%20생성%2C%20SQL%2C%20데이터%20타입).md)
     - [데이터베이스 시작(데이터 타입, 제약 조건)](https://github.com/wisenick1/TIL/blob/main/database/실전%20데이터베이스%20입문/데이터베이스%20시작(데이터%20타입%2C%20제약%20조건).md)
     - [데이터 관리(DDL)](https://github.com/wisenick1/TIL/blob/main/database/실전%20데이터베이스%20입문/데이터%20관리(DDL).md)
+    - [데이터 관리(DML)](https://github.com/wisenick1/TIL/blob/main/database/실전%20데이터베이스%20입문/데이터%20관리(DML).md)
