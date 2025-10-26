@@ -144,3 +144,4 @@ Database
     - [데이터베이스 시작(데이터 타입, 제약 조건)](https://github.com/wisenick1/TIL/blob/main/database/실전%20데이터베이스%20입문/데이터베이스%20시작(데이터%20타입%2C%20제약%20조건).md)
     - [데이터 관리(DDL)](https://github.com/wisenick1/TIL/blob/main/database/실전%20데이터베이스%20입문/데이터%20관리(DDL).md)
     - [데이터 관리(DML)](https://github.com/wisenick1/TIL/blob/main/database/실전%20데이터베이스%20입문/데이터%20관리(DML).md)
+    - [조회와 정렬](https://github.com/wisenick1/TIL/blob/main/database/실전%20데이터베이스%20입문/조회와%20정렬(조회).md)
