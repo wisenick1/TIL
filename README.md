@@ -146,3 +146,6 @@ Database
     - [데이터 관리(DML)](https://github.com/wisenick1/TIL/blob/main/database/실전%20데이터베이스%20입문/데이터%20관리(DML).md)
     - [조회와 정렬(select, NULL 등)](https://github.com/wisenick1/TIL/blob/main/database/실전%20데이터베이스%20입문/조회와%20정렬(조회).md)
     - [데이터 가공(산술 연산, 문자열 연산)](https://github.com/wisenick1/TIL/blob/main/database/실전%20데이터베이스%20입문/데이터%20가공(산술%20연산%2C%20문자열%20연산).md)
+
+- 데이터베이스 기본
+    - [내부 조인]()
