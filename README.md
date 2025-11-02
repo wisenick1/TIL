@@ -84,7 +84,7 @@ Spring
     - [카카오 로그인 절차](https://github.com/wisenick1/TIL/blob/main/spring/스프링%20로그인/카카오%20로그인%20절차.md)
     - [AccessToken과 RefreshToken 기본](https://github.com/wisenick1/TIL/blob/main/spring/스프링%20로그인/AccessToken과%20RefreshToken.md)
 
-github
+Github
 --
 - git
     - [intellij git 처음 연동작업](https://github.com/wisenick1/TIL/blob/main/git/intellij%20git%20%EC%B2%98%EC%9D%8C%20%EC%97%B0%EB%8F%99%EC%9E%91%EC%97%85.md)
@@ -94,7 +94,7 @@ github
 
     
 
-codingTest
+CodingTest
 --
 - 자료구조
     - [배열과 리스트](https://github.com/wisenick1/TIL/blob/main/condingTest/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EB%B0%B0%EC%97%B4%EA%B3%BC%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
