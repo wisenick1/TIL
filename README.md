@@ -149,3 +149,4 @@ Database
 
 - 데이터베이스 기본
     - [내부 조인](https://github.com/wisenick1/TIL/blob/main/database/실전%20데이터베이스%20기본/내부%20조인.md)
+    - [외부 조인 추가](https://github.com/wisenick1/TIL/blob/main/database/실전%20데이터베이스%20기본/외부%20조인.md)
